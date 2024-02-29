@@ -24,7 +24,7 @@ public class ContDown {
     public static void main(String[] args)
     {
 
-        countDown(6);
+        countDown(3000);
     }
 }
 
